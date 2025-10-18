@@ -40,5 +40,5 @@ Want to improve the tool? Add features like:
 Pull requests welcome!
 
 📜 License
-This project is open-source under the MIT License.
+This project is open-source under the Mozilla Public License 2.0.
 
